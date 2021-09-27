@@ -36,6 +36,9 @@
     * 資訊擷取 (Information retrieval)，
     * 內容識別與產生 (content recognition/identification/generation/synthesis)
       * Audio/Speech: 如語音辨識、語音合成、歌聲合成
+         * 玩具等級語音辨識（automatic speech recognition, ASR）玩玩看 Google 的 Teachable Machine https://teachablemachine.withgoogle.com/train
+         * 文字轉語音系統 (text-to-speech system, TTS)，或稱語音合成 (speech synthesis)，聽聽看聯合報聽新聞 https://udn.com/news/index
+         * 江振宇老師的客製化 TTS demo
       * Image/Video: 如人臉辨識、物體辨識、人臉合成(DeepFake)、骨架辨識、VR (virtual reality)、AR (augmented reality)
          * https://editor.p5js.org/cychiang/sketches/5cGOnG6Y5 
          * https://editor.p5js.org/cychiang/sketches/ogxNFqDpK
