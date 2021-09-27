@@ -38,6 +38,7 @@
       * Audio/Speech: 如語音辨識、語音合成、歌聲合成
       * Image/Video: 如人臉辨識、物體辨識、人臉合成(DeepFake)、骨架辨識、VR (virtual reality)、AR (augmented reality)
          * https://editor.p5js.org/cychiang/sketches/5cGOnG6Y5 
+         * https://editor.p5js.org/cychiang/sketches/ogxNFqDpK
     * 網頁瀏覽器 (browser)
       * 
 
