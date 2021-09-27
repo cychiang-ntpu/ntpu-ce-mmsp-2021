@@ -87,13 +87,13 @@ Skype：https://join.skype.com/invite/bDUfgQfDZTeG
 
 ## 助教資訊
 ### Primary 助教
-1. 林書磊, 通訊碩一, st23990504@gmail.com
-2. 林品翰, 通訊碩一, joseph861030@gmail.com
+1. 林書磊, 通訊碩二, st23990504@gmail.com
+2. 林品翰, 通訊碩二, joseph861030@gmail.com
 4. 蘇家駒, 通訊大四, boss.su2000@gmail.com
 
 ### 支援助教
-1. 李武豪, 通訊博二, hank12451@gmail.com
-2. 林彥廷, 通訊碩二, d26923050@gmail.com
+1. 李武豪, 通訊博三, hank12451@gmail.com
+2. 林彥廷, 通訊博一, d26923050@gmail.com
 
 ### Office hours:
 * face to face: TBA
