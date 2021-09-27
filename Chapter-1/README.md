@@ -28,6 +28,8 @@
         * 語音 (Speech)
 * 系統 (Systems)
     * 壓縮/解壓縮 (compression, related to transmission/communication)
+      * Audio coding: MP3 (MPEG-2 Audio Layer III) https://en.wikipedia.org/wiki/Audio_coding_format
+      * Speech coding: https://en.wikipedia.org/wiki/Speech_coding
       * 串流媒體（Streaming media)，如 YouTube、Apple Music、NetFlix、以及 KKBOX 等等。
       * 即時通訊（Instant Messaging，簡稱IM，如：skype、LINE、Facebook Messenger、WhatsApp、Discord、Telegram、微信、Jabber、ICQ、以及 QQ 等等，通常使用作業系統上的「應用程式」執行。
       * 基於IP的語音傳輸（英語：Voice over Internet Protocol，縮寫：VoIP），如 ：Skype、FaceTime 等等，通常使用作業系統上的「應用程式」執行。
