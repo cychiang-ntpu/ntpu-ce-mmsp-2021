@@ -4,6 +4,7 @@
 國立臺北大學通訊工程學系大三必修課
 
 教室：電1F06 (應疫情先採用線上上課)
+
 時間：星期一 5~7
 
 ## 課程 github
@@ -57,6 +58,7 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 
 其中 <img src="http://latex.codecogs.com/gif.latex?d" /> 為遲交的天數，<img src="http://latex.codecogs.com/gif.latex?x" /> 為編譯後得到的分數。
 
+(會再適度調整)
 
 ## 授課老師資訊
 江振宇, 專任副教授
