@@ -47,7 +47,8 @@ https://join.slack.com/t/ntpu-ce-mmsp-2021/shared_invite/zt-w8vmvyqu-isR6VUNjZRK
 共有 5-6 次 mini project，一次 final project。
 Projects 1-6 要求同學將程式碼上傳至數位學苑或，
 助教先將各位同學的程式碼先以 [gcc](https://gcc.gnu.org/) 編譯，若編譯不過先退件，要求同學補交。
-Final Project 有要求同學和任課老師約好 demo 時間，在指定的時間和老師及助教前 (1) 投影片報告、(2)demo程式並講解程式內容。***Final Project 人未到現場 demo 直接被當掉。***
+Final Project 有要求同學和任課老師約好 demo 時間，在指定的時間和老師及助教前 (1) 投影片報告、(2)demo程式並講解程式內容。
+***Final Project 人未到現場 demo 直接被當掉。***
 
 #### 遲交處理原則
 編譯不過，在繳交期限內皆可補繳，不扣分，但在超過繳交期限後繳交，使用以下數學式進行評分：
@@ -61,6 +62,8 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 (會再適度調整)
 
 ## 授課老師資訊
+
+```
 江振宇, 專任副教授
 23741 新北市三峽區大學路151號
 電話：(02) 86741111 轉 68805
@@ -68,6 +71,7 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 電子郵件: cychiang AT mail.ntpu.edu.tw
 第二電子郵件： cychiang AT gm.ntpu.edu.tw
 網頁： cychiang.tw
+```
 
 ### Office hours:
 1. 可預約時段視訊
@@ -78,6 +82,7 @@ Final Project 有要求同學和任課老師約好 demo 時間，在指定的時
 
 ### 聯絡分機
 辦公室：(02) 86741111 轉 68805 (因疫情可能在家)
+
 Skype：https://join.skype.com/invite/bDUfgQfDZTeG
 
 ## 助教資訊
