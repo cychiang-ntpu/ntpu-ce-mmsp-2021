@@ -29,7 +29,9 @@
 * 系統 (Systems)
     * 壓縮/解壓縮 (compression, related to transmission/communication)
       * 串流媒體（Streaming media)，如 YouTube、Apple Music、NetFlix、以及 KKBOX 等等。
-      * 即時通訊（Instant Messaging，簡稱IM，如：skype、LINE、Facebook Messenger、WhatsApp、Discord、Telegram、微信、Jabber、ICQ、以及 QQ 等等。
+      * 即時通訊（Instant Messaging，簡稱IM，如：skype、LINE、Facebook Messenger、WhatsApp、Discord、Telegram、微信、Jabber、ICQ、以及 QQ 等等，通常使用作業系統上的「應用程式」執行。
+      * 基於IP的語音傳輸（英語：Voice over Internet Protocol，縮寫：VoIP），如 ：Skype、FaceTime 等等，通常使用作業系統上的「應用程式」執行。
+      * WebRTC，名稱源自網頁即時通訊（英語：Web Real-Time Communication），如在 Google Chrome 上使用 Google Meet，或任何 browser 上執行 [Jitsi Meet](https://jitsi.org/)
     * [搜尋引擎](https://zh.wikipedia.org/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E) (Search engine): Google, Bing, Yahoo! Search, 百度, 搜狗, DuckDuckGo, ...
     * 資訊擷取 (Information retrieval)
     * 內容識別 (content recognition/identification)
