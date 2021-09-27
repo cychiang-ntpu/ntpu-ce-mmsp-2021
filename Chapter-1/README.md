@@ -4,11 +4,9 @@
 ###### 通訊系 江振宇 副教授
 
 
-上課影片:
-
-Part-1: https://youtu.be/BA-8QNe1sN4
-
-Part-2: https://youtu.be/aZSn0WtXM0g
+#### 上課影片:
+* Part-1: https://youtu.be/BA-8QNe1sN4
+* Part-2: https://youtu.be/aZSn0WtXM0g
 
 ## Multimedia (from Wiki)
 *Multimedia is a form of communication that combines different content forms such as text, audio, images, animations, or video into a single interactive presentation, in contrast to traditional mass media which featured little to no interaction from users, such as printed material or audio recordings.*
