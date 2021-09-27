@@ -1,4 +1,8 @@
 # 2. Digital Data (Signal) Representation
+
+#### 上課影片:
+* Day1 Part-3: https://youtu.be/ph5isWelgE8
+
 ## 2.1 Analog to Digital Conversion in Brief
 
 ###### tags: `Multimedia Signal Processing (U3329, Fall, 2020)`
