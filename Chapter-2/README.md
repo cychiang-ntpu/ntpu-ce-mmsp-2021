@@ -245,12 +245,15 @@ Example of quantization noise. (a) Unquantized samples of the signal x[n] = 0.99
 | fs     | 取樣率    | Hz | 8000/16000/22050/44100     |
 | m      | sample size | bit | 8/16/32 |
 | f      | 訊號頻率  | Hz | 取決於 fs     |
-| A      | 振幅     | Hz | 取決於 m     |
+| A      | 振幅     | 相對於TRS端子最大輸入電壓 (Remark 1) | [-1.0, 1.0)     |
 | T      | 產生的弦波長度 | second | possible real value |
 
 輸出：
 1. fn.wav 為 WAV 檔的檔名，格式為 [WAV](https://zh.wikipedia.org/wiki/WAV) 
 2. sqnr.txt 為 txt 的檔名，請將 SQNR 以 [ASCII](https://zh.wikipedia.org/wiki/ASCII) 的 [plain text](https://zh.wikipedia.org/wiki/%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6) 表示 (四捨五入) 到小數點 15 位的
+
+Remark:
+1. 相對於[TRS端子](https://zh.wikipedia.org/wiki/TRS%E7%AB%AF%E5%AD%90)最大輸入電壓 = <a href="https://www.codecogs.com/eqnedit.php?latex=V_{in}/V_{max}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?V_{in}/V_{max}" title="V_{in}/V_{max}" /></a>，其中 <a href="https://www.codecogs.com/eqnedit.php?latex=V_{in}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?V_{in}" title="V_{in}" /></a> 為TRS端子的輸入電壓，<a href="https://www.codecogs.com/eqnedit.php?latex=V_{max}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?V_{max}" title="V_{max}" /></a> 為 ADC 可接受的最大輸入電壓。
 
 
 
