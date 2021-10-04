@@ -226,7 +226,7 @@ Example of quantization noise. (a) Unquantized samples of the signal x[n] = 0.99
 <a href="https://www.codecogs.com/eqnedit.php?latex=P_0=E[e^2[n]]=\frac{1}{N}\sum_{n=0}^{N-1}e^2[n]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?P_0=E[e^2[n]]=\frac{1}{N}\sum_{n=0}^{N-1}e^2[n]" title="P_0=E[e^2[n]]=\frac{1}{N}\sum_{n=0}^{N-1}e^2[n]" /></a>
 </p>
 
-* **Dynamic range**: SQNR is directly related to Dynamic range. 動態範圍是描述量化後的信號能夠如何細緻描述信號振幅變化的量，並不是用來信號值域 (domain) 的範圍，我們也可以使用 SQNR 來敘述數位信號的 dynamic range，動態範圍越大則 SQNR 越大，通常我們直接用原信號的最大振幅和 quantization error 最大振幅的比值來作為數位訊號的 dynamic range (或直接代表 SQNR)，假如數位訊號的 quantization levels 為 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;L=2^m" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;L=2^m" title="L=2^m" /></a>，則此數位訊號的 dynamic range 為：
+* **Dynamic range**: SQNR is directly related to Dynamic range. 動態範圍是描述量化後的信號能夠如何細緻描述信號振幅變化的量，並不是用來描述信號值域 (domain) 的範圍，我們也可以使用 SQNR 來敘述數位信號的 dynamic range，動態範圍越大則 SQNR 越大，通常我們直接用原信號的最大振幅和 quantization error 最大振幅的比值來作為數位訊號的 dynamic range (或直接代表 SQNR)，假如數位訊號的 quantization levels 為 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;L=2^m" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;L=2^m" title="L=2^m" /></a>，則此數位訊號的 dynamic range 為：
 
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;SQNR(dB)=10log10(\frac{(2^{m-1}\Delta)^2}{(0.5\Delta)^2})=20log10(2^m)\approx&space;6.02m" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;SQNR(dB)=10log10(\frac{(2^{m-1}\Delta)^2}{(0.5\Delta)^2})=20log10(2^m)\approx&space;6.02m" title="SQNR(dB)=10log10(\frac{(2^{m-1}\Delta)^2}{(0.5\Delta)^2})=20log10(2^m)\approx 6.02m" /></a>
