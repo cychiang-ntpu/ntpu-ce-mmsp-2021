@@ -245,7 +245,7 @@ Example of quantization noise. (a) Unquantized samples of the signal x[n] = 0.99
 | fs     | 取樣率    | Hz | 8000/16000/22050/44100     |
 | m      | sample size | bit | 8/16/32 |
 | f      | 訊號頻率  | Hz | 取決於 fs     |
-| A      | 振幅     | 相對於TRS端子最大輸入電壓 (Remark 1) | [-1.0, 1.0)     |
+| A      | 振幅     | 相對於TRS端子最大輸入電壓 (Remark 1) | [0.0, 1.0]     |
 | T      | 產生的弦波長度 | second | possible real value |
 
 輸出：
