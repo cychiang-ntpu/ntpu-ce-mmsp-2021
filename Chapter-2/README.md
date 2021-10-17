@@ -2,13 +2,16 @@
 
 #### 上課影片:
 * Day1 Part-3: https://youtu.be/ph5isWelgE8
+* Day2 Part-1: https://youtu.be/YAMmi_wc1f0
+* Day2 Part-2: https://youtu.be/03i23QBltkY
+* Day2 Part-3: https://youtu.be/fnrHLkYECFQ
 
 ## 2.1 Analog to Digital Conversion in Brief
 
 ###### tags: `Multimedia Signal Processing (U3329, Fall, 2020)`
 ###### 通訊系 江振宇 副教授
 
-上課影片：https://youtu.be/6WapSyQvxZU
+
 
 <p align="center">
 <a title="Tjwikcom / Public domain" href="https://commons.wikimedia.org/wiki/File:ADC_Symbol.svg"><img width="256" alt="ADC Symbol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/ADC_Symbol.svg/256px-ADC_Symbol.svg.png"></a>
@@ -23,7 +26,7 @@
 
 ## 2.2 Why Digital?
 
-上課影片 2.2/2.3/2.4： https://youtu.be/5LWGdMSu-yk
+
 
 * 若單純只要做一個放大信號的動作(Amplifier)
     * Analog Transistor Amplifier Circuit
@@ -147,7 +150,6 @@ Sampling: A process of converting a signal (e.g., a function of continuous time 
 
 
 ## 2.4 Quantization
-上課影片 2.4：https://youtu.be/nKVdRY2g6Xg
 * Requires that each sample be represented in a fixed number of bits, called the ***sample size*** or equivalently the ***bit depth***.
 * Bit depth is for limiting ***precision*** with which each sample can be represented.
 * For digital images, each sample represents a color at a discrete point in a two dimensional image.
