@@ -154,7 +154,7 @@ int main(void)
 ```
 
 * Undersampling (aliasing)
-    * 在 Chapter 2 提過，[按我跳過去複習](https://github.com/cychiang-ntpu/ntpu-ce-mmsp-2020/blob/master/week-1-20200914/README.md#23-ideal-periodic-sampling)
+    * 簡而言之，就是取樣頻率跟不上信號振動的頻率。
 
 ---
 
