@@ -4,6 +4,8 @@
 ###### 通訊系 江振宇 副教授
 
 
+
+
 課程目標：
 1. 了解音訊非常粗淺的物理特性
 2. 快速回顧音訊的來源以及儲存方法
@@ -14,8 +16,6 @@
 ---
 
 ## 3.1 音訊/聲音的來源
-
-3.1 以及 3.2 上課影片：https://youtu.be/JtaRO_yLvtY
 
 ### 3.1.1 聲波
 * 聲波是聲音的傳播形式。由物體（聲源）振動產生的機械波。在氣體和液體介質中傳播時是一種縱波(機械波的一種)，但在固體介質中傳播時可能混有橫波(機械波的一種)。
@@ -160,7 +160,7 @@ int main(void)
 
 ## 3.3 音訊的基礎量測
 ### 3.3.1 Frequency
-上課錄影: https://youtu.be/TEsLYoVHfxI
+
 * Refers to the number of complete back-and-forth cycles of vibrational motion of the medium particles per unit of time
 * Unit for frequency: Hz (Hertz)
 * 1 Hz = 1 cycle/second
@@ -184,7 +184,7 @@ int main(void)
 ![](https://i.imgur.com/tiUbBKS.png)
 
 * 可以發現到在剛剛的 0.1352 - 0.1112 的約 0.024秒以內，語音的 waveform 是穩定的，意思是說可以明顯地看到有 5 個相似的波形重複，但如果仔細檢查這段時間的語音信號，並不是完全符合嚴格的週期性訊號(periodic signal)定義，嚴格來說是準週期 (Quasiperiodicity)的訊號。
-    * Periodic Signal：如果一個信號 $x[n]$ 是週期信號 (periodic signal)，則我們可以找到一個最小的數字 $N$ 使得 $x[n]=x[n+N]$
+    * Periodic Signal：如果一個信號 <a href="https://www.codecogs.com/eqnedit.php?latex=x[n]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x[n]" title="x[n]" /></a> 是週期信號 (periodic signal)，則我們可以找到一個最小的數字 *N* 使得 <a href="https://www.codecogs.com/eqnedit.php?latex=x[n]=x[n&plus;N]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x[n]=x[n&plus;N]" title="x[n]=x[n+N]" /></a>
     * Quasiperiodic Signals：準週期信號是具有[概週期函數特性](https://zh.wikipedia.org/wiki/%E6%A6%82%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0)的信號，以四季變化為例 --> Climate oscillations that appear to follow a regular pattern but which do not have a fixed period are called quasiperiodic
 * 一個不完全正確但是逼近的分析語音的方法，就是假設語音信號在某一個短時間內，通常稱為音框 (frame)，語音是穩定且假設是 periodic signal，所以我們可以用 Fourier Series (FS) 或是 Fourier Transform (FT) 來描述語音信號的頻率組成成分
     * 分析語音通常使用 20ms 到 40ms 之間的 frame，所以如果取樣率是 16000Hz，以 frame size = 20ms 為例，就是拿 $0.02\text{(sec)}\times16000\text{(points/second)}=320 \text{points}$ 的訊號去做 FT 或是 FS，每隔 5 ms 或 10ms 就再重複一樣做 FT/FS， 這裡的 5 ms 或 10ms 就稱為 frame interval。
