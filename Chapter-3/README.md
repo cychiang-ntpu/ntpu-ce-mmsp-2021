@@ -215,7 +215,7 @@ Amplitude can be measured with a variety of units, including voltages, newtons/m
     ![](https://i.imgur.com/8ep3AT3.png)
     * Experimentally, it has been determined that if you increase the amplitude of an audio recording by 10 dB, it will sound about twice as loud. (Of course, these perceived differences are subjective.)
     * For most humans, a 3 dB change in amplitude is the smallest perceptible change.
-* 電腦儲存，請回顧 Chapter 2 的 [quantization](https://github.com/cychiang-ntpu/ntpu-ce-mmsp-2020/blob/master/week-1-20200914/README.md#24-quantization) 或是 Signal-to-Quantization-Noise-Ratio (SQNR) and Dynamic Range in Terms of dB
+* 電腦儲存，請回顧 Chapter 2 的 [quantization](https://github.com/cychiang-ntpu/ntpu-ce-mmsp-2021/tree/master/Chapter-2#24-quantization) 或是 Signal-to-Quantization-Noise-Ratio (SQNR) and Dynamic Range in Terms of dB
     * Sample Values
         * Integers on [-2^n, 2^n - 1]; where n=16 is the bit depth of a digital file.
         ![](https://i.imgur.com/Xd1yIUv.png)
