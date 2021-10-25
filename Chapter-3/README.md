@@ -187,12 +187,12 @@ int main(void)
     * Periodic Signal：如果一個信號 <a href="https://www.codecogs.com/eqnedit.php?latex=x[n]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x[n]" title="x[n]" /></a> 是週期信號 (periodic signal)，則我們可以找到一個最小的數字 *N* 使得 <a href="https://www.codecogs.com/eqnedit.php?latex=x[n]=x[n&plus;N]" target="_blank"><img src="https://latex.codecogs.com/svg.latex?x[n]=x[n&plus;N]" title="x[n]=x[n+N]" /></a>
     * Quasiperiodic Signals：準週期信號是具有[概週期函數特性](https://zh.wikipedia.org/wiki/%E6%A6%82%E5%91%A8%E6%9C%9F%E5%87%BD%E6%95%B0)的信號，以四季變化為例 --> Climate oscillations that appear to follow a regular pattern but which do not have a fixed period are called quasiperiodic
 * 一個不完全正確但是逼近的分析語音的方法，就是假設語音信號在某一個短時間內，通常稱為音框 (frame)，語音是穩定且假設是 periodic signal，所以我們可以用 Fourier Series (FS) 或是 Fourier Transform (FT) 來描述語音信號的頻率組成成分
-    * 分析語音通常使用 20ms 到 40ms 之間的 frame，所以如果取樣率是 16000Hz，以 frame size = 20ms 為例，就是拿 $0.02\text{(sec)}\times16000\text{(points/second)}=320 \text{points}$ 的訊號去做 FT 或是 FS，每隔 5 ms 或 10ms 就再重複一樣做 FT/FS， 這裡的 5 ms 或 10ms 就稱為 frame interval。
+    * 分析語音通常使用 20ms 到 40ms 之間的 frame，所以如果取樣率是 16000Hz，以 frame size = 20ms 為例，就是拿 <a href="https://www.codecogs.com/eqnedit.php?latex=0.02\text{(sec)}\times16000\text{(points/second)}=320&space;\text{points}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?0.02\text{(sec)}\times16000\text{(points/second)}=320&space;\text{points}" title="0.02\text{(sec)}\times16000\text{(points/second)}=320 \text{points}" /></a> 的訊號去做 FT 或是 FS，每隔 5 ms 或 10ms 就再重複一樣做 FT/FS， 這裡的 5 ms 或 10ms 就稱為 frame interval。
     * 音訊以 mp3 為例，在取樣率為 44100 Hz 的情況下，frame 長度為 576 or 1152 個 samples，所以大約為 0.0065 seconds 或0.0131 seconds 為一個 frame，frame interval 為 576 or 1152 個 samples
     * 因為假設所要分析的訊號為 periodic，則可以把訊號拆解為
-        * Fundamental frequency component: sine wave at $F_0$ Hz 
-        * Harmonics: sine waves at $2F_0$Hz, $3F_0$Hz,...,and $(N-1)F_0$Hz.
-            * 注意！ $N$ 代表 frame size
+        * Fundamental frequency component: sine wave at <a href="https://www.codecogs.com/eqnedit.php?latex=F_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?F_0" title="F_0" /></a> Hz 
+        * Harmonics: sine waves at <a href="https://www.codecogs.com/eqnedit.php?latex=2F_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?2F_0" title="2F_0" /></a>Hz, <a href="https://www.codecogs.com/eqnedit.php?latex=3F_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?3F_0" title="3F_0" /></a>Hz,...,and <a href="https://www.codecogs.com/eqnedit.php?latex=(N-1)F_0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?(N-1)F_0" title="(N-1)F_0" /></a>Hz.
+            * 注意！ <a href="https://www.codecogs.com/eqnedit.php?latex=N" target="_blank"><img src="https://latex.codecogs.com/svg.latex?N" title="N" /></a> 代表 frame size
         * 範例請看 [fft_example](fft_example) 資料夾下的 bmp 檔
 
 
