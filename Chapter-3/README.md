@@ -197,14 +197,14 @@ int main(void)
 
 
 ### 3.3.2 Amplitude
-Amplitude can be measured with a variety of units, including voltages, newtons/m^2, or the unitless measure called decibels.
+Amplitude can be measured with a variety of units, including voltages, <a href="https://www.codecogs.com/eqnedit.php?latex=Newtons/m^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Newtons/m^2" title="Newtons/m^2" /></a>, or the unitless measure called decibels.
 
-* 機械波量測：Newtons/meter^2 (abbreviated Pa or N/m^2)
+* 機械波量測：<a href="https://www.codecogs.com/eqnedit.php?latex=Newtons/m^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?Newtons/m^2" title="Newtons/m^2" /></a> (abbreviated Pa or <a href="https://www.codecogs.com/eqnedit.php?latex=N/m^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?N/m^2" title="N/m^2" /></a>)
     * We described how a vibrating object pushes molecules closer together, creating changes in air pressure.
     * Since this movement is the basis of sound, it makes sense to measure the loudness of a sound in terms of air pressure changes.
     * The average atmospheric pres-sure at sea level is approximately 105 Pa.
     * For sound waves, air pressure amplitude is defined as the average deviation from normal background atmospheric air pressure. 
-    * For example, the threshold of human hearing (for a 1000 Hz sound wave) varies from the normal background atmospheric air pressure by 2 * 10-5 Pa, so this is its pressure amplitude. 注意！這裏 air pressure 都是用 root mean sqaure ([RMS](https://en.wikipedia.org/wiki/Root_mean_square)) 來計算的
+    * For example, the threshold of human hearing (for a 1000 Hz sound wave) varies from the normal background atmospheric air pressure by <a href="https://www.codecogs.com/eqnedit.php?latex=2\times10^{-5}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?2\times10^{-5}" title="2\times10^{-5}" /></a> Pa, so this is its pressure amplitude. 注意！這裏 air pressure 都是用 root mean sqaure ([RMS](https://en.wikipedia.org/wiki/Root_mean_square)) 來計算的
     * Loudness計算網頁：http://www.sengpielaudio.com/calculator-soundlevel.htm
     * Measuring sound in terms of pressure amplitude is intuitively easy to understand, but in practice decibels are a more common, and in many ways a more convenient, way to measure sound amplitude.
 ![](https://i.imgur.com/4WALRWe.png)
