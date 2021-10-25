@@ -3,7 +3,9 @@
 ###### tags: `Multimedia Signal Processing (U3329, Fall, 2020)`
 ###### 通訊系 江振宇 副教授
 
-
+上課錄影
+* Day3 (Part-1): https://youtu.be/L62ceSG6O1M
+* Day3 (Part-2): https://youtu.be/cWUZftnRtnM
 
 
 課程目標：
