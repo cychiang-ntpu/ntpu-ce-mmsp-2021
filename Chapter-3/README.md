@@ -210,14 +210,14 @@ Amplitude can be measured with a variety of units, including voltages, <a href="
 ![](https://i.imgur.com/4WALRWe.png)
 
 * 相對參考的單位：decibels-sound-pressure-level (dB_SPL)
-    * A decibel is always based upon some agreed-upon reference point, and the reference point varies ac-cording to the phenomenon being measured. 
-    * For sound, the reference point is the air pressure ampli-tude for the threshold of hearing. A decibel in the context of sound pressure level is called decibels-sound-pressure-level (dB_SPL). 
+    * A decibel is always based upon some agreed-upon reference point, and the reference point varies according to the phenomenon being measured. 
+    * For sound, the reference point is the air pressure amplitude for the threshold of hearing. A decibel in the context of sound pressure level is called decibels-sound-pressure-level (dB_SPL). 
     ![](https://i.imgur.com/8ep3AT3.png)
     * Experimentally, it has been determined that if you increase the amplitude of an audio recording by 10 dB, it will sound about twice as loud. (Of course, these perceived differences are subjective.)
     * For most humans, a 3 dB change in amplitude is the smallest perceptible change.
 * 電腦儲存，請回顧 Chapter 2 的 [quantization](https://github.com/cychiang-ntpu/ntpu-ce-mmsp-2021/tree/master/Chapter-2#24-quantization) 或是 Signal-to-Quantization-Noise-Ratio (SQNR) and Dynamic Range in Terms of dB
     * Sample Values
-        * Integers on [-2^n, 2^n - 1]; where n=16 is the bit depth of a digital file.
+        * Integers on <a href="https://www.codecogs.com/eqnedit.php?latex=[-2^{n-1},&space;2^{n-1})" target="_blank"><img src="https://latex.codecogs.com/svg.latex?[-2^{n-1},&space;2^{n-1})" title="[-2^{n-1}, 2^{n-1})" /></a>; where n=16 is the bit depth of a digital file.
         ![](https://i.imgur.com/Xd1yIUv.png)
     * decibels-full-scale (dBFS)
         * If n=16, a sample value of ±32768 maps to 0 dBFS (the maximum amplitude possible for the system), and 10,000 maps to -10.3 dBFS; 1 maps to -90.3 dBFS.
@@ -254,7 +254,7 @@ in decibels (dB)
 
 
 ### 3.4.3 Absolute threshold of hearing (ATH) and Equal-loudness contour
-The threshold of hearing is generally reported as the RMS sound pressure of 20 micropascals, i.e. 0 dB SPL, corresponding to a sound intensity of 0.98 pW/m^2 at 1 atmosphere and 25 °C. It is approximately the quietest sound a young human with undamaged hearing can detect at 1,000 Hz. The threshold of hearing is frequency-dependent and it has been shown that the ear's sensitivity is best at frequencies between 2 kHz and 5 kHz, where the threshold reaches as low as −9 dB SPL.
+The threshold of hearing is generally reported as the RMS sound pressure of 20 micropascals (<a href="https://www.codecogs.com/eqnedit.php?latex=2\times10^{-5}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?2\times10^{-5}" title="2\times10^{-5}" /></a> Pa), i.e. 0 dB SPL, corresponding to a sound intensity of <a href="https://www.codecogs.com/eqnedit.php?latex=0.98&space;pW/m^2" target="_blank"><img src="https://latex.codecogs.com/svg.latex?0.98&space;pW/m^2" title="0.98 pW/m^2" /></a> at 1 atmosphere and 25 °C. It is approximately the quietest sound a young human with undamaged hearing can detect at 1,000 Hz. The threshold of hearing is frequency-dependent and it has been shown that the ear's sensitivity is best at frequencies between 2 kHz and 5 kHz, where the threshold reaches as low as −9 dB SPL.
 
 ![](https://i.imgur.com/Ab6TMfI.png)
 
