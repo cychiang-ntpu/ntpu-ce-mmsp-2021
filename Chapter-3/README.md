@@ -6,6 +6,7 @@
 上課錄影
 * Day3 (Part-1): https://youtu.be/L62ceSG6O1M
 * Day3 (Part-2): https://youtu.be/cWUZftnRtnM
+* Day3 (Part-3): https://youtu.be/QI_4psDvGZY
 
 
 課程目標：
