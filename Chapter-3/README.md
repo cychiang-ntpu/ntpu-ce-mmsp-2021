@@ -262,6 +262,7 @@ The threshold of hearing is generally reported as the RMS sound pressure of 20 m
 ### 3.4.4 Mel Scale and Bark Scale
 * Mel Scale
 ![](https://i.imgur.com/DIN4RFz.png)
+
 * Bark Scale
 ![](https://i.imgur.com/omU3n8e.png)
 
