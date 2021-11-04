@@ -1,6 +1,6 @@
 # 3. Digital Audio Representation
 
-###### tags: `Multimedia Signal Processing (U3329, Fall, 2020)`
+###### tags: `Multimedia Signal Processing (U3329, Fall, 2021)`
 ###### 通訊系 江振宇 副教授
 
 上課錄影
@@ -12,6 +12,10 @@
 * Day4 (Part-2): https://youtu.be/l77KCWxc-EQ
 * Day4 (Part-3): https://youtu.be/M0m8l5-Pk7k
 
+* Day5 (Part-1): https://youtu.be/QUHDguIkBBM
+* Day5 (Part-2): https://youtu.be/xkC0T1WNh3s
+
+---
 
 課程目標：
 1. 了解音訊非常粗淺的物理特性
