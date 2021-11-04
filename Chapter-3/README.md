@@ -8,6 +8,10 @@
 * Day3 (Part-2): https://youtu.be/cWUZftnRtnM
 * Day3 (Part-3): https://youtu.be/QI_4psDvGZY
 
+* Day4 (Part-1): https://youtu.be/J5sxUQZnRbM
+* Day4 (Part-2): https://youtu.be/l77KCWxc-EQ
+* Day4 (Part-3): https://youtu.be/M0m8l5-Pk7k
+
 
 課程目標：
 1. 了解音訊非常粗淺的物理特性
