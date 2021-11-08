@@ -15,6 +15,10 @@
 * Day5 (Part-1): https://youtu.be/QUHDguIkBBM
 * Day5 (Part-2): https://youtu.be/xkC0T1WNh3s
 
+* Day6 (Part-1): https://youtu.be/srkNtQoKlPs
+* Day6 (Part-2): https://youtu.be/W3iSPns7PuQ
+* Day6 (Part-3): https://youtu.be/-K5gDfka_Iw
+
 ---
 
 課程目標：
