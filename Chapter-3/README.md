@@ -282,8 +282,9 @@ The threshold of hearing is generally reported as the RMS sound pressure of 20 m
 
 
 ---
+## Reviews on DFT
 
-## [3.5 Mini Project 2 - 音訊的時頻分析 - 使用 spectrogram](mini_project-2-spectrogram.docx)
+## [3.6 Mini Project 2 - 音訊的時頻分析 - 使用 spectrogram](mini_project-2-spectrogram.docx)
 
 
 
