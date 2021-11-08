@@ -287,10 +287,18 @@ The threshold of hearing is generally reported as the RMS sound pressure of 20 m
 
 ---
 ## 3.5 Reviews on DFT
+### 3.5.1 Relationship between FT, DTFT, and DFT
+![](https://i.imgur.com/FqfwVC4.png)
 
-![](https://imgur.com/a/qh9lDm2)
+### 3.5.2 Frequnecy in DFT
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/qh9lDm2"  ><a href="//imgur.com/a/qh9lDm2">FT, DTFT, and DFT</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://i.imgur.com/Ex35Bal.png)
+
+---
+
+![](https://i.imgur.com/lcyMFSk.png)
+
+
 
 ## [3.6 Mini Project 2 - 音訊的時頻分析 - 使用 spectrogram](mini_project-2-spectrogram.docx)
 
