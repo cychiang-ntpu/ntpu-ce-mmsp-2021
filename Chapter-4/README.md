@@ -64,12 +64,29 @@
 ![image](https://user-images.githubusercontent.com/70786533/142800273-cc18d600-c950-4891-a6de-685332eb0fc0.png)
 
 ---
+Magnitude and Phase
+
+![image](https://user-images.githubusercontent.com/70786533/142800761-fdc1f791-d280-405d-ad8c-5ed9a3602eeb.png)
+
+請點以下網頁看控制不同的 a 所造成的 Magnitude & Phase
+
+https://www.geogebra.org/calculator/ng5hmw6v
+
+---
+
 Linear Constant Coefficient Difference Equation (LCCDE)
 
 ![image](https://user-images.githubusercontent.com/70786533/142800343-436c9439-11eb-4e5c-be1f-722abb1ce2d5.png)
 
+---
+直接將 Analog System 離散化模擬，會與真正的 Analog System 有所落差！
+![image](https://user-images.githubusercontent.com/70786533/142800993-f79bd8cc-3531-4889-97b3-971f0eee7b6b.png)
 
 ---
+乾脆直接使用 DSP 的 LCCDE 之參數來設計 digital filter 算了！
+![image](https://user-images.githubusercontent.com/70786533/142801331-ad2012c5-f348-454f-bd57-0b219f2f5011.png)
+
+
 
 ## 4.2 Discrete Signals and Systems
 ### 4.2.1 Eigensystem
@@ -85,7 +102,9 @@ Linear Constant Coefficient Difference Equation (LCCDE)
 
 ![image](https://user-images.githubusercontent.com/70786533/142797524-ea725937-ce5f-4ee3-8367-e7e5fa0f23c3.png)
 
-### 4.2.3 Ideal Low-Pass Filter
+## 4.3 Disign of Digital Filter
+
+### 4.3.1 Ideal Low-Pass Filter
 
 ![image](https://user-images.githubusercontent.com/70786533/142797540-ff51c4c0-7367-425a-8672-e2d2ae9acb49.png)
 
