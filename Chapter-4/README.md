@@ -32,6 +32,9 @@
 
 ---
 ### From Continuous to Discrete
+
+使用計算機模擬 RC low-pass filter
+
 ![image](https://user-images.githubusercontent.com/70786533/142796260-d9f34111-258e-439d-8314-29542473f2b9.png)
 
 ![image](https://user-images.githubusercontent.com/70786533/142796317-471c6115-8ae2-401d-909e-6d431bc1f4aa.png)
