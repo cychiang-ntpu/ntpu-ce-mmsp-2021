@@ -21,6 +21,9 @@
 
 ---
 ### 探討不同頻率 f 的信號輸入至 RC circuit 的結果，注意 3dB 的定義！
+
+當 RC low-pass filter 的 3dB 點在 400 Hz
+
 ![](https://i.imgur.com/GLe5iA0.jpg)
 
 ---
