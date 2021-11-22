@@ -72,6 +72,12 @@ Magnitude and Phase
 
 https://www.geogebra.org/calculator/ng5hmw6v
 
+
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\omega=2\pi\frac{400}{16000}" title="\omega=2\pi\frac{400}{16000}" />
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=|H(e^{j\omega})|\approx&space;0.68\neq&space;\frac{1}{\sqrt2}=0.70710678118" target="_blank"><img src="https://latex.codecogs.com/svg.latex?|H(e^{j\omega})|\approx&space;0.68\neq&space;\frac{1}{\sqrt2}=0.70710678118" title="|H(e^{j\omega})|\approx 0.68\neq \frac{1}{\sqrt2}=0.70710678118" /></a>
+
+
 ---
 
 Linear Constant Coefficient Difference Equation (LCCDE)
