@@ -4,7 +4,7 @@
 #include <memory.h>
 
 #define FS 48000.0f
-#define FC 4000.0f
+#define FC 400.0f
 #define M 500
 #define PI 3.141592920
 
@@ -105,10 +105,10 @@ float low_pass(int m, int n)
 {
 	float wc = 2*PI*FC/FS;
 	if(n==m) {// L'Hopital's Rule
-		return (1.0-wc/PI);
+		return wc/PI;
 	}
 	else {
-		return sinf(wc*((float)(n-m)))/PI/((float)(n-m)) * hamming(2*m+1, n) * (-1.0);
+		return sinf(wc*((float)(n-m)))/PI/((float)(n-m)) * hamming(2*m+1, n);
 	}
 }
 
