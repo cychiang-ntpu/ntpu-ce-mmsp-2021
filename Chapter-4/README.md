@@ -126,7 +126,9 @@ Linear Constant Coefficient Difference Equation (LCCDE)
 
 
 
-
+##  Mini Project - 3 
+請看：
+https://hackmd.io/@cychiang-ntpu/rJmxMM-YK
 
 
 
