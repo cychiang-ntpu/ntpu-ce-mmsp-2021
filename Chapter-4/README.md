@@ -116,6 +116,10 @@ Linear Constant Coefficient Difference Equation (LCCDE)
 
 ![image](https://user-images.githubusercontent.com/70786533/142797568-46d35d48-9a1b-4870-a06e-965d6b16c68e.png)
 
+### 4.3.2 Ideal High-Pass Filter
+
+![image](https://user-images.githubusercontent.com/70786533/143802287-cf22a75b-1533-4356-b98d-871339551fda.png)
+
 
 
 
