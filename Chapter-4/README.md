@@ -3,6 +3,15 @@
 ###### tags: `Multimedia Signal Processing (U3329, Fall, 2020)`
 ###### 通訊系 江振宇 副教授
 
+Day7: Part-1 錄影： https://youtu.be/16k1i1Q5W_g
+Day7: Part-2 錄影： https://youtu.be/mAPlGVDYkl0
+Day7: Part-3 錄影： https://youtu.be/VHs5vIEYSDk
+
+Day8: Part-1 錄影： https://youtu.be/0NTrUDCkQXU
+Day8: Part-2 錄影： https://youtu.be/Db1A9clv_Cw
+Day8: Part-3 錄影： https://youtu.be/b_2458Hw9Gc
+
+Day9: Part-1 錄影： https://youtu.be/nrH2Sa0laA8
 
 ## 4.1 Simulating RC circuit with DSP
 
